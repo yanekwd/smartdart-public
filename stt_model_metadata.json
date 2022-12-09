@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "lang": "en",
+      "filename": "smartdart-vosk-en-latest.zip",
+      "url": "https://github.com/yanekwd/smartdart-public/raw/main/speech_to_text_models/smartdart-vosk-en-latest.zip",
+      "version": "0.1"
+    },
+    {
+      "lang": "de",
+      "filename": "smartdart-vosk-de-latest.zip",
+      "url": "https://github.com/yanekwd/smartdart-public/raw/main/speech_to_text_models/smartdart-vosk-de-latest.zip",
+      "version": "0.1"
+    }
+  ]
+}
